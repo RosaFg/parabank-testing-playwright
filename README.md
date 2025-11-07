@@ -9,7 +9,7 @@
 
 > Suite completa de testing automatizado para aplicación web bancaria usando Playwright, Python y el patrón Page Object Model.
 
-![Pagina](.reports/screenshots/antes_ir_registro_20251106_220452.png)
+![Pagina](reports/screenshots/antes_ir_registro_20251106_220452.png)
 
 ---
 ## Sobre este proyecto
@@ -43,9 +43,9 @@ Este proyecto demuestra habilidades en **QA Automation** implementando una suite
 ---
 
 ## Ejemplos
-![Gif-inicio](.reports/Gif/inicio.gif)
-![Gif-registro](.reports/Gif/registro.gif)
-![Gif-registro-2](.reports/Gif/registro-2.gif)
+![Gif-inicio](reports/Gif/inicio.gif)
+![Gif-registro](reports/Gif/registro.gif)
+![Gif-registro-2](reports/Gif/registro-2.gif)
 
 ---
 ## Cobertura de Testing
