@@ -374,7 +374,7 @@ def generar_datos_registro():
 **RosaFG** - QA Automation Engineer
 
 - GitHub: [@RosaFG](https://github.com/RosaFG)
-- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/rosafg)
+- LinkedIn: [linkedin.com/in/rosafg](https://linkedin.com/in/rosafg)
 - Email: rosafuegos@gmail.com
 
 ---
