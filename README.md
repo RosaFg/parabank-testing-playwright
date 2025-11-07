@@ -9,10 +9,9 @@
 
 > Suite completa de testing automatizado para aplicación web bancaria usando Playwright, Python y el patrón Page Object Model.
 
+![Pagina](.reports/screenshots/antes_ir_registro_20251106_220452.png)
+
 ---
-
-
-
 ## Sobre este proyecto
 
 Este proyecto demuestra habilidades en **QA Automation** implementando una suite de tests end-to-end para [Parabank](https://parabank.parasoft.com/), una aplicación bancaria de demostración.
@@ -26,7 +25,7 @@ Este proyecto demuestra habilidades en **QA Automation** implementando una suite
 - Documentar código de forma **profesional**
 - **Identificar y documentar defectos** en la aplicación
 
----
+--
 
 ## Características principales
 
@@ -41,9 +40,14 @@ Este proyecto demuestra habilidades en **QA Automation** implementando una suite
 | **Test tagging** | Organización por criticidad (smoke, regression, slow) |
 | **Fixtures reutilizables** | Setup/teardown automático de navegadores |
 | **Bug tracking** | Documentación profesional de defectos encontrados |
-
 ---
 
+## Ejemplos
+![Gif-inicio](.reports/Gif/inicio.gif)
+![Gif-registro](.reports/Gif/registro.gif)
+![Gif-registro-2](.reports/Gif/registro-2.gif)
+
+---
 ## Cobertura de Testing
 
 ### Módulo: Login (8 test cases)
@@ -345,18 +349,6 @@ def generar_datos_registro():
         # ...
     }
 ```
-
----
-
-## Mejoras Futuras
-
-- [ ] Agregar tests de API REST
-- [ ] Implementar Allure Reports
-- [ ] Dockerizar el proyecto
-- [ ] Agregar tests de performance básicos
-- [ ] Ejecución paralela de tests
-- [ ] Tests de accesibilidad (A11y)
-- [ ] Integración con herramientas de bug tracking
 
 ---
 
